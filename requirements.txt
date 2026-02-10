@@ -1,0 +1,9 @@
+dash==2.14.2
+pandas
+numpy
+scikit-learn
+tensorflow-cpu
+xgboost
+plotly
+gunicorn
+openpyxl
