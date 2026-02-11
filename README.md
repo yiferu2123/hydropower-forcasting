@@ -1,7 +1,7 @@
 EEP Water Level and Energy Forecasting
 Interactive Dashboard–Driven Deep Learning Framework
 1. Project Overview
-2. 
+
 This project focuses on forecasting water level and energy generation for Ethiopian Electric Power (EEP) hydropower plants using deep learning models (LSTM & GRU).
 The system integrates robust data preprocessing, outlier handling, time-series lag preparation, and interactive visualization, enabling accurate long-term forecasting and decision support.
 
